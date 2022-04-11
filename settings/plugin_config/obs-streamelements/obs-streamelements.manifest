@@ -1,0 +1,22 @@
+[obs-browser]
+version_number=20211209000198
+package_url=https://cdn.streamelements.com/obs/dist/obs-streamelements/macos/latest/obs-streamelements-setup.pkg?v=20211209000198
+force_install=false
+allow_downgrade=true
+disable_auto_use_last_response=false
+ 
+[[[BEGIN_RELEASE_NOTES]]]
+<html>
+<body>
+<style>
+	* { font-family: Arial; }
+</style>
+<h3>Update Content:</h3>
+<ul>
+	<li>Support for OBS Studio 27.1 Native integration with YouTube</li>
+	<li>OBS Studio 27.1.3</li>
+	<li>Rebranding as SE.Live</li>
+</ul>
+</body>
+</html>
+[[[END_RELEASE_NOTES]]]
